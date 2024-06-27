@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://github.com/pxr-tech/iOS_Shared/blob/master/Shared.xcframework.zip",
+         url: "Shared.xcframework.zip",
          checksum:"1449109551e3307535ac40f46fe99a2b39bfa000e1940ded3263975589ed400b")
    ]
 )
